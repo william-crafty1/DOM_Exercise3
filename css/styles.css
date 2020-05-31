@@ -1,0 +1,11 @@
+
+body {
+    height: 100%;
+}
+#circle{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50px;
+    transition: 0.1s;
+}
